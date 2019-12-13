@@ -80,16 +80,8 @@ Among the regression models, Lasso regresion and Elastic Net Regression achieved
   - Employed policyholders constitute the highest number of policyholders who have the claim reason for hail. The reason can be that these policyholders drive their cars more frequently than the others.
 
 
-   
- ## Conclusion
  
  
-
-## Recommendations
-
-
-
-## Further improvements
 
  
 
